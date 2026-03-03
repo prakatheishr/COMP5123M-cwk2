@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Results output files
+results/*.txt
+results/*.csv
+
+# Kubernetes temp
+*.swp
+
+# VSCode
+.vscode/
